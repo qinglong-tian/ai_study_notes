@@ -1,0 +1,92 @@
+# ===============================
+# OS / editor junk
+# ===============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+.vscode/
+.idea/
+
+# ===============================
+# Python cache / build artifacts
+# ===============================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ===============================
+# Virtual environments
+# ===============================
+.env
+.venv
+venv/
+ENV/
+env/
+
+# ===============================
+# Jupyter / IPython
+# ===============================
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# ===============================
+# Machine learning artifacts
+# ===============================
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+*.pickle
+*.npz
+*.npy
+
+# ===============================
+# Data / large files
+# ===============================
+data/
+datasets/
+outputs/
+results/
+logs/
+checkpoints/
+
+# ===============================
+# Temporary / backup files
+# ===============================
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# ===============================
+# LaTeX / PDF (optional – remove if you want to track PDFs)
+# ===============================
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# ===============================
+# Misc
+# ===============================
+.cache/
+
