@@ -78,5 +78,3 @@ For each synthetic task:
 
 ## References
 
-- Grinsztajn et al., *TabPFN* (ICML 2023)
-- Aigul et al., *TabICL* (NeurIPS 2023)
